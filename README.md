@@ -1,4 +1,4 @@
-## Hi there 👋
+## my name is taty (˶ᵔ ᵕ ᵔ˶), when I was a child/teenager, I had a tumblr account, and I loved editing themes in HTML, I was faker programming... I really love the colors of the codes and what they turned into. I'm not a programmer, but I'm a girl who loves studying. I think that's enough to learn something new, right?
 
 <!--
 **wwwtaty/wwwtaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
